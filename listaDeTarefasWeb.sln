@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listaDeTarefasWeb", "listaDeTarefasWeb.csproj", "{9B4AF40F-DF9D-47D6-AD27-48509A9EE88F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B4AF40F-DF9D-47D6-AD27-48509A9EE88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4AF40F-DF9D-47D6-AD27-48509A9EE88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4AF40F-DF9D-47D6-AD27-48509A9EE88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4AF40F-DF9D-47D6-AD27-48509A9EE88F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D3E0E60-0BBF-4EDF-9716-E4CC3417F559}
+	EndGlobalSection
+EndGlobal
